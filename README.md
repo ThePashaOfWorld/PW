@@ -1,4 +1,4 @@
-# PW
+# HOX(HowOfXnitro?)
 DiscordNitroGenMaker
 Download and open.
 Made in Py.
